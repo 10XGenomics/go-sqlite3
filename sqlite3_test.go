@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/mattn/go-sqlite3/sqlite3_test"
+	"github.com/10xgenomics/go-sqlite3/sqlite3_test"
 )
 
 func TempFilename(t *testing.T) string {

@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"github.com/mattn/go-sqlite3"
+	"github.com/10xgenomics/go-sqlite3"
 	"log"
 	"os"
 )
